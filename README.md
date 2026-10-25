@@ -48,3 +48,4 @@ Controlled and powered by a Waveshare ESP32-S3-Zero
 <img width="1444" height="995" alt="Screenshot 2026-10-25 155400" src="https://github.com/user-attachments/assets/7a4541f8-24ab-43e1-98c3-ce75f0cf0906" />
 <img width="1762" height="1199" alt="Screenshot 2026-10-24 232341" src="https://github.com/user-attachments/assets/41105a58-f7ed-47e5-817d-f8a49c2b0d5d" />
 <img width="1372" height="1195" alt="Screenshot 2026-10-24 232227" src="https://github.com/user-attachments/assets/d00a9eb4-a156-426b-9851-4e8261d6c9de" />
+<img width="1419" height="964" alt="Screenshot 2026-10-25 171503" src="https://github.com/user-attachments/assets/50ad82bf-9554-42ca-8c35-4c9166a9657e" />
