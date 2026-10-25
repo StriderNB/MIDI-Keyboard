@@ -29,7 +29,7 @@ Controlled and powered by a Waveshare ESP32-S3-Zero
 | Slider 1 | Filter cutoff |
 | Slider 2 | Reverb | 
 | Rotary Encoder | Turns volume up or down |
-| Rotary Encoder Button | Turns off the led rbg |
+| Rotary Encoder Button | Turns off the led RGB |
 
 # BOM
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
